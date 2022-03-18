@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "real-time-tensorflow-canvas",
-    "slug": "real-time-tensorflow-canvas",
+    "name": "real-time-tensorflow",
+    "slug": "real-time-tensorflow",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
